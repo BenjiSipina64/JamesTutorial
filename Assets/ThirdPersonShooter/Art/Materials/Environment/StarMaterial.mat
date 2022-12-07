@@ -135,7 +135,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 0.84277236, g: 0.9044118, b: 0.7448097, a: 1}
     - _Color: {r: 0.84277236, g: 0.9044118, b: 0.7448097, a: 1}
-    - _EmissionColor: {r: 3.7629523, g: 4.0052357, b: 0, a: 1}
+    - _EmissionColor: {r: 722.82355, g: 766.9961, b: 0, a: 1}
     - _EmissionColorUI: {r: 0.0344882, g: 1, b: 0, a: 1}
     - _EmissionColorWithMapUI: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.5441177, g: 1, b: 0.5661258, a: 1}
